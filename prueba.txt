@@ -1,1 +1,7 @@
-Prueba de git rebase con squash
+Prueba de git rebase con squash.
+
+Primera adición para el commit
+
+Segunda adición para el commit
+
+Tercera adición para el commit
